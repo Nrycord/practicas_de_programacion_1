@@ -2,7 +2,7 @@
 #include<fstream>
 #define ncarr 30
 #define ncli 30
-
+//Creado por: Carlos Enrique Cordero Linares. CL18030
 using namespace std;
 
 struct Cliente //nombra la estructura de los clientes
